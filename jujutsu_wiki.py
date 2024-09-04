@@ -3,6 +3,7 @@
 #modules
 from tkinter import *
 from PIL import ImageTk,Image
+from tkinter import ttk
 
 #funstion to show wiki page of jujutsu high tokyo
 def wiki():
